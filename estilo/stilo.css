@@ -1,0 +1,22 @@
+body{
+background-color: purple; 
+ text-align: center;
+}
+
+p{
+front-size:60px;
+color:green;
+}
+a{
+color: black;
+front-size:44px;
+
+}
+h1{
+color:white;
+front-size: 40px;
+}
+table.center{
+margin-left:auto;
+margin-right:auto;
+}
