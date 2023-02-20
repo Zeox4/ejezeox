@@ -1,6 +1,7 @@
 body{
 background-color: black; 
  text-align: center;
+ color: white;
 }
 p{
 front-size:60px;
@@ -17,5 +18,4 @@ front-size: 40px;
 table.center{
 margin-left:auto;
 margin-right:auto;
-color: white;
 }
