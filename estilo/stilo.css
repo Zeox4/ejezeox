@@ -2,7 +2,6 @@ body{
 background-color: black; 
  text-align: center;
 }
-
 p{
 front-size:60px;
 color:red;
@@ -10,7 +9,6 @@ color:red;
 a{
 color: white;
 front-size:44px;
-
 }
 h1{
 color:white;
