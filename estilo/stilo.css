@@ -1,14 +1,14 @@
 body{
-background-color: purple; 
+background-color: black; 
  text-align: center;
 }
 
 p{
 front-size:60px;
-color:green;
+color:red;
 }
 a{
-color: black;
+color: white;
 front-size:44px;
 
 }
